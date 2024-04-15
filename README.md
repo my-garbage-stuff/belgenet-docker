@@ -1,6 +1,8 @@
 # Belgenet docker imajı
 ## Imajı Derleme
 ```
+git clone https://github.com/my-garbage-stuff/belgenet-docker
+cd belgenet-docker
 docker build -t belgenet .
 ```
 ## Imajı başlatma
